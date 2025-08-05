@@ -1,6 +1,6 @@
 ## Data
 
-The datasets have been excluded from the repo due to their size and privacy issues. 
+The datasets have been excluded from the repo due to their size and privacy reasons. 
 
 ## Example prediction of the model for NVIDIA:
    
